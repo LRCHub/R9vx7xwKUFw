@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と指と形",
+  "base_artist": "SHO-SENSEI!!",
+  "createdAt": "2026-02-10T02:34:55.931774Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と指と形",
+      "artist": "SHO-SENSEI!!",
+      "has_synced": false,
+      "path": "select/pl_01_君と指と形_SHO-SENSEI!!.txt"
+    }
+  ]
+}
